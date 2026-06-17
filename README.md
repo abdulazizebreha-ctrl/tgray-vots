@@ -1,4 +1,4 @@
-class="bg-indigo-400 text-yollow shadow-lg">ትግራይ ሞዴል
+(ትግራይ ሞዴል)
 <html lang="am">
 <head>
     <meta charset="UTF-8">
